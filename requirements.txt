@@ -1,0 +1,11 @@
+boto3
+scipy
+numpy
+matplotlib
+pandas
+python-dotenv
+importlib_resources==6.4.0
+datasets==2.20.0
+# fire==0.6.0
+
+# scikit_learn==1.5.0

@@ -1,0 +1,10 @@
+boto3
+scipy
+numpy
+matplotlib
+pandas
+python-dotenv
+importlib_resources==6.4.0
+datasets==2.20.0
+sagemaker
+sqlparse

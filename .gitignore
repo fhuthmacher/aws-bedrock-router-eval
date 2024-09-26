@@ -3,10 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+notebook/venv/
+
 *.parquet
 *.db
-*.env
-*.jsonl
+data/eval-source/question_query.jsonl
 
 # C extensions
 *.so
